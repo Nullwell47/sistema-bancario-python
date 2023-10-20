@@ -24,7 +24,7 @@ while True:
         print("Saque")
 
     elif opcao == "3":
-        print("Extrado")
+        print("Extrato")
     
     elif opcao == "0":
         break
